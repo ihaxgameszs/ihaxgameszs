@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihaxgameszs&theme=radical)         
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ihaxgameszs&show_icons=true&theme=radical
+
